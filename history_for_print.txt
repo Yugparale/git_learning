@@ -1,0 +1,1522 @@
+    1  [114;9u[114;9u4;9u[C
+    2  ls
+    3  cd Ubuntu-Hyprland-24.04
+    4  ls
+    5  cd pokemon-colorscripts
+    6  ls
+    7  sudo make clean uninstall
+    8  sudo make uninstall
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd 
+   13  vim ascii_cat.txt
+   14  vim .bashrc
+   15  fastfetch
+   16  cd .config
+   17  ls
+   18  cd kitty
+   19  ls
+   20  vim kitty.conf
+   21  cd 
+   22  ls
+   23  cd Ubuntu-Hyprland-24.04
+   24  ls
+   25  cd pokemon-colorscripts
+   26  ls
+   27  sudo .uninstall
+   28  cat uninstall.sh
+   29  sudo make uninstall 
+   30  unistall
+   31  chmod +x unistall
+   32  chmod +x uninstall
+   33  sudo make uninstall 
+   34  cat uninstall.sh >uninstall \nchmod a+x uninstall
+   35  sudo chmod a+x unistall
+   36  sudo chmod a+x uninstall
+   37  ls
+   38  cd .config
+   39  ls
+   40  cd hypr
+   41  ls
+   42  vim hyprland.conf
+   43  cd configs
+   44  ls
+   45  cd ..
+   46  cd UserConfigs
+   47  ls
+   48  vim 01-UserDefaults.conf
+   49  cat 00-Readme
+   50  cd ..
+   51  ls
+   52  cat workspaces.conf
+   53  vim hyprland.conf
+   54  cd .config
+   55  ls
+   56  cd hypr
+   57  ls
+   58  vim hyprland.conf
+   59  cd Use
+   60  cd UserConfigs
+   61  ls
+   62  vim UserSettings.conf
+   63  cd .config
+   64  cd hypr
+   65  ls
+   66  vim UserSettings.conf
+   67  cd .config
+   68  cd hypr
+   69  cd .config
+   70  cd hypr
+   71  ls
+   72  cd UserConfigs
+   73  vim UserSettings.conf
+   74  cd .config
+   75  cd hypr
+   76  ls
+   77  sleep 4; hyprctl activewindow
+   78  cd .config
+   79  cd hypr
+   80  ls
+   81  cd ..
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd Ubuntu-Hyprland-24.04
+   86  ls
+   87  cd pokemon-colorscripts
+   88  ls
+   89  cat install.sh
+   90  cd colorscripts
+   91  ls
+   92  cd large
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd ..
+   97  kitty
+   98  cd ..
+   99  cd
+  100  ls
+  101  cd .con
+  102  cd .config
+  103  ls
+  104  cd kitty
+  105  ls
+  106  vim kitty.conf
+  107  cleare
+  108  clear
+  109  sudo apt-get install neovim
+  110  ncim
+  111  nvim
+  112  .config
+  113  ~/nvim/init.lua
+  114  ls
+  115  mkdir nvim
+  116  cd nvim
+  117  touch  init.lua
+  118  ls
+  119  nvim init.lua
+  120  ls
+  121  mkdir lua
+  122  mkdir config
+  123  cd lua/config
+  124  ls
+  125  rm  config
+  126  rm -rf config
+  127  cd lua
+  128  mkdir config
+  129  cd config
+  130  touch lazy.lua
+  131  nvim lazy.lua
+  132  :checkhealth lazy
+  133  nvim
+  134  cd ..
+  135  mkdir plugins
+  136  nvim
+  137  ls
+  138  cd config
+  139  ls
+  140  nvim lazy.lua
+  141  cd ..
+  142  ls
+  143  nvim init.lua
+  144  cd plugins
+  145  cd lus
+  146  cd lua
+  147  cd plugins
+  148  touch spec1.lua
+  149  nvim spec1.lua
+  150  ls
+  151  nvim spec1.lua
+  152  touch telescope.lua
+  153  nvim telescope.lua
+  154  cd plugins
+  155  cd .config
+  156  ls
+  157  cd nvim
+  158  ls
+  159  cd lua
+  160  ls
+  161  cd plugins
+  162  ls
+  163  nvim telescope.lua
+  164  ls
+  165  cd ..
+  166  ls
+  167  nvim init.lua
+  168  nvim telescope.lua
+  169  nvim acb.c
+  170  cd lua/plugins
+  171  ls
+  172  nvim telescope.lua
+  173  sudo apt-get install ripgrep
+  174  touch tree_sitter.lua
+  175  nvim tree_sitter.lua
+  176  blueman-applet --loglevel debug
+  177  blueman-applet 
+  178  sudo apt upgrade
+  179  sudo reboot
+  180  cd .con
+  181  cd .config
+  182  ls
+  183  cd nvim
+  184  cd lua/plugins
+  185  ls
+  186  touch Neo_tree.lua
+  187  nvim Neo_tree.lua
+  188  wget -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip \\n
+  189  cd ~/.local/share/fonts \\n&& unzip JetBrainsMono.zip \\n&& rm JetBrainsMono.zip \\n&& fc-cache -fv
+  190  nvim Neo_tree.lua
+  191  cd .config
+  192  ls
+  193  cd kitty
+  194  ls
+  195  nvim kitty.conf
+  196  cd .config
+  197  cd lua/plugins
+  198  cd nvim
+  199  cd lua/plugins
+  200  ls
+  201  nvim Neo_tree.lua
+  202  nvim 
+  203  cd 
+  204  nvim 
+  205  cd .config
+  206  cd lua/plugins
+  207  cd nvim
+  208  cd lua/plugins
+  209  :help Neotree
+  210  nvim 
+  211  cd .config
+  212  cd nvim
+  213  cd lua
+  214  ls
+  215  nvim config
+  216  nvim
+  217  nvim 
+  218  cd ..
+  219  nvim
+  220  cd ..
+  221  ls
+  222  nvim init.lua
+  223  nvim
+  224  sudo apt upgrade nvim
+  225  sudo apt upgrade neovim
+  226  nvim -version
+  227  curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.tar.gz\nsudo rm -rf /opt/nvim\nsudo tar -C /opt -xzf nvim-linux-x86_64.tar.gz
+  228  nvim ./bashrc
+  229  ~/.bashrc
+  230  sudo ~/.bashrc
+  231  sudo apt remove neovim -y
+  232  sudo add-apt-repository ppa:neovim-ppa/stable
+  233  sudo apt-get update
+  234  udo apt-get install neovim
+  235  sudo apt-get install neovim
+  236  nvim
+  237  nvim -version
+  238  sudo apt remove neovim -
+  239  git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+  240  cd 
+  241  ;s
+  242  ls
+  243  git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+  244  nvim
+  245  tar xzvf nvim-linux-x86_64.tar.gz
+  246  ./nvim-linux-x86_64/bin/nvim\n
+  247  nvim -version
+  248  nvim
+  249  ./nvim-linux-x86_64/bin/nvim\n
+  250  nvim
+  251  sudo mv nvim-linux-x86_64 /opt/nvim\n
+  252  sudo ln -s /opt/nvim/bin/nvim /usr/local/bin/nvim\n
+  253  nvim
+  254  cd .local/share
+  255  ls
+  256  nvim
+  257  cd nvim
+  258  ls
+  259  cd lazy
+  260  ls
+  261  cd lazy.nvim
+  262  ls
+  263  cd ..
+  264  nvim
+  265  cd .. 
+  266  cd
+  267  nvim
+  268  cd .config
+  269  ls
+  270  cd nvim
+  271  ls
+  272  nvim init.lua
+  273  nvim
+  274  cd .config
+  275  ls
+  276  nvim
+  277  cd .config
+  278  ls
+  279  \n
+  280  s install node
+  281  sudo apt install node'\n\n''\n'
+  282  sudo apt install node
+  283  sudo apt install node.js
+  284  sudo apt install nodejs
+  285  sudp apt install npm\n
+  286  sudo install npm
+  287  sudo apt install npm
+  288  node
+  289  node -v
+  290  npm install typescript --save-dev
+  291  tsc
+  292  tsc -v
+  293  npm install -g typescript-language-server typescript vscode-langservers-extracted @tailwindcss/language-server\n
+  294  npm install -g typescript-language-server vscode-langservers-extracted @tailwindcss/language-server\n
+  295  l
+  296  ls
+  297  cd node_modules
+  298  ls
+  299  cd typescript
+  300  ls
+  301  typescript-language-server
+  302  npm install -g typescript-language-server typescript vscode-langservers-extracted @tailwindcss/language-server\n
+  303  cd .npm
+  304  ls
+  305  cd
+  306  cd .npm
+  307  ls
+  308  cd _logs
+  309  ls
+  310  nvim 2025-05-22T09_01_22_930Z-debug-0.log
+  311  sudo npm install -g typescript-language-server typescript vscode-langservers-extracted @tailwindcss/language-server\n
+  312  cd .co
+  313  cd .config
+  314  nvim
+  315  ls
+  316  cd nvim
+  317  ls
+  318  cd lus
+  319  cd lua
+  320  ls
+  321  cd custom
+  322  ls
+  323  cd plugins
+  324  ls
+  325  nvim init.lua
+  326  nvim
+  327  cd    ..
+  328  cd kickstart
+  329  ls
+  330  cd ..
+  331  cd kickstart
+  332  ls
+  333  cd plugins
+  334  ls
+  335  cd 
+  336  cd .con
+  337  cd .config
+  338  nvim
+  339  cd 
+  340  cd Codes
+  341  nvim
+  342  cd .config
+  343  nvim
+  344  sudo apt install cheese
+  345  nvim
+  346  cd .config
+  347  nvim
+  348  cd .config
+  349  nvim
+  350  cd .config
+  351  nvim
+  352  nvim ./zshrc
+  353  nvim ~/.zshrc
+  354  ls
+  355  nvim ~/.zshrc
+  356  cat ~/.ascii_art.txt\n
+  357  cd 
+  358  ls
+  359  cat ~/.ascii_cat.txt\n
+  360  ld
+  361  ls
+  362  cat ~/.ascii_cat.txt
+  363  nvim ascii_cat.txt
+  364  cat ~/.ascii_cat.txt
+  365  fastfetch --logo-type raw --logo $HOME/.ascii_art.txt\n
+  366  ls -l ~ | grep ascii\n
+  367  cat ~/ascii_cat.txt\n
+  368  fastfetch --logo-type raw --logo ~/ascii_cat.txt\n
+  369  nvim ~/.zshrc
+  370  cc
+  371  clear
+  372  fastfetch --logo-type raw --logo ~/ascii_cat.txt\n
+  373  nvim ~/.zshrc
+  374  fastfetch --logo-type raw --logo ~/ascii_cat1.txt\n
+  375  fastfetch --logo-type raw --logo ~/ascii_cat2.txt\n
+  376  cat ~/ascii_cat2.txt\n
+  377  fastfetch --logo-type raw --logo ~/ascii_cat2.txt\n
+  378  fastfetch --logo raw --logo ~/ascii_cat2.txt\n
+  379  fastfetch --logo-type raw --logo ~/ascii_cat2.txt\n
+  380  curl -X POST https://www.thethockshop.com/login \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":""}}'\n
+  381  curl -X POST http://localhost:5000/api/login \\n  -H "Content-Type: application/json" \  -d '{"email": "testuser@test.com", "password": {"$ne":""}}'\n
+  382  curl -X POST https://www.thethockshop.com/login  \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":""}}'\n
+  383  curl -X POST https://mern-chat-app-67wi.onrender.com/login  \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":""}}'\n
+  384  curl -X POST https://mern-chat-app-67wi.onrender.com/login  \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":null}}'\n
+  385  curl -X POST https://www.thethockshop.com/api/auth/callback/credentials  \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":null}}'\n
+  386  curl -X POST https://mern-chat-app-67wi.onrender.com/api/auth/login \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":null}}'\n
+  387  curl -X POST https://mern-chat-app-67wi.onrender.com/api/auth/login \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":""}}'\n
+  388  curl -X POST https://www.thethockshop.com/api/auth/callback/credentials  \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":""}}'\n
+  389  curl -X POST https://www.thethockshop.com/login  \\n  -H "Content-Type: application/json" \\n  -d '{"email": "testuser@test.com", "password": {"$ne":""}}'\n
+  390  ping https://www.thethockshop.com/api/auth/callback/credentials  \n
+  391  ping https://www.thethockshop.com/\n
+  392  ping https://google.com
+  393  ping google.com
+  394  ping www.thethockshop.com \n
+  395  ping www.thethockshop.com/api/auth/callback/credentials  \n
+  396  ping www.thethockshop.com/api\n
+  397  ping www.thethockshop.com\n
+  398  nmap
+  399  sudp apt install nmap
+  400  sudo apt install nmap
+  401  nmap
+  402  nvim ~/.zshrc
+  403  fastferch --gen-config
+  404  fastfetch --gen-config\n
+  405  cd .config
+  406  nvim fastfetch/config.jsonc
+  407  nvim ~/.zshrc
+  408  cd .config
+  409  nvim fastfetch/config.jsonc
+  410  nvim ~/.zshrc
+  411  nvim fastfetch/config.jsonc
+  412  cd .config
+  413  nvim fastfetch/config.jsonc
+  414  cd .config
+  415  nvim fastfetch/config.jsonc
+  416  nvim ~/.zshrc
+  417  cd .config
+  418  nvim fastfetch/config.jsonc
+  419  nvim ~/.zshrc
+  420  cd .config
+  421  nvim fastfetch/config.jsonc
+  422  cd .config
+  423  nvim fastfetch/config.jsonc
+  424  nvim
+  425  cd .config
+  426  nvim 
+  427  cd .config
+  428  nvim
+  429  cd
+  430  cd .config
+  431  exit
+  432  nvim 
+  433  exi
+  434  exit
+  435  cd .config
+  436  nvim 
+  437  cd .config
+  438  nvim
+  439  \texit
+  440  cd .config
+  441  ls
+  442  cd nvim
+  443  ls
+  444  nvim init.lua
+  445  exit
+  446  nvim init.lua
+  447  cd nvim
+  448  cd .config
+  449  nvim init.lua
+  450  nvim
+  451  cd Codes
+  452  cd 
+  453  cd Codes
+  454  nvmi
+  455  nvim
+  456  cd ..
+  457  cd Codes
+  458  ls
+  459  mkdir Cursor2DAnim
+  460  cd Cursor2DAnim
+  461  nvim
+  462  sudo apt install python
+  463  sudo apt install python3
+  464  ~/.zshrc
+  465  sudo ~/.zshrc
+  466  nvim ./zshrc
+  467  nvim ~/.zshrc
+  468  curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY" \\n  -H 'Content-Type: application/json' \\n  -X POST \\n  -d '{\n    "contents": [\n      {\n        "parts": [\n          {\n            "text": "Explain how AI works in a few words"\n          }\n        ]\n      }\n    ]\n  }'
+  469  nvim ~/.zshrc
+  470  source ~/.zshrc
+  471  curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY" \\n  -H 'Content-Type: application/json' \\n  -X POST \\n  -d '{\n    "contents": [\n      {\n        "parts": [\n          {\n            "text": "Explain how AI works in a few words"\n          }\n        ]\n      }\n    ]\n  }'
+  472  npm install @google/genai
+  473  cd Codes
+  474  cd Cursor2DAnim
+  475  nvim testGEmini.js
+  476  npm testGEmini.js
+  477  node testGEmini.js
+  478  ls
+  479  node testGEmini.js
+  480  nvim testGEmini.js
+  481  node testGEmini.js
+  482  npm install @google/genai
+  483  exit
+  484  cd Codes
+  485  cd Cursor2DAnim
+  486  node testGEmini.js
+  487  nvim testGEmini.js
+  488  node testGEmini.js
+  489  rm testGEmini.js
+  490  ls
+  491  npm init -y
+  492  npm install @google/genai
+  493  nvim
+  494  node testGEmini.js
+  495  node testGemini.js
+  496  nvim package.json
+  497  node testGemini.js
+  498  cd Codes
+  499  ls
+  500  cd Cursor2DAnim
+  501  ls
+  502  nvim testGemini.js
+  503  cd Codes
+  504  cd Cursor2DAnim
+  505  ls
+  506  mkdir manimTest
+  507  cs manimTest
+  508  cd manimTest
+  509  touch test.py
+  510  nvim test.py
+  511  pip install manim
+  512  sudo apt install python3-manim
+  513  pip install python3 -m manim
+  514  curl -LsSf https://astral.sh/uv/install.sh | sh
+  515  source $HOME/.local/bin/env
+  516  source $HOME/.local/bin/env.fish'
+  517  source $HOME/.local/bin/env.fish
+  518  nvim $HOME/.local/bin/env.fish
+  519  uv python install
+  520  sudo apt install texlive-full
+  521  cd Codes
+  522  cd Cursor2DAnim
+  523  ls
+  524  nvim
+  525  node testGemini.js
+  526  cd Codes
+  527  cd Cursor2DAnim
+  528  ls
+  529  rm manimTest
+  530  rm -rf manimTest
+  531  ls
+  532  uv init manimations\ncd manimations\nuv add manim
+  533  uv run manim checkhealth
+  534  ls
+  535  cd medis
+  536  cd media
+  537  ls
+  538  cd videos
+  539  ls
+  540  cd 1080p60
+  541  ls
+  542  cd partial_movie_files
+  543  ls
+  544  cd ../manimations
+  545  cd ..
+  546  cd.. 
+  547  cd ../media/manimations
+  548  cd ~_
+  549  cd ~-
+  550  cd ~/Codes/Cursor2DAnim
+  551  ls
+  552  cd manimaations
+  553  cd manimations
+  554  ls
+  555  nvim mani.py
+  556  nvim main.py
+  557  nvim
+  558  manim -pql main.py ArrayWithArrow 
+  559  cd ~/Codes/Cursor2DAnim
+  560  rm -rf manimations
+  561  ls
+  562  sudo apt update\nsudo apt install build-essential python3-dev libcairo2-dev libpango1.0-dev
+  563  uv init manimations\ncd manimations\nuv add manim
+  564  mainim
+  565  uv run manim
+  566  ls
+  567  nvim main.py
+  568  uv run manim -pql main.py CreateCirclemanim
+  569  ls
+  570  uv run manim -pql main.py CreateCirclemanim
+  571  ls
+  572  nvim
+  573  :q
+  574  cd ~/Codes/Cursor2DAnim
+  575  ls
+  576  nvim testGemini.js
+  577  node testGemini.js
+  578  uv run manim -pql main.py CreateCirceOnAxis
+  579  cd mainmations
+  580  cd manimations
+  581  uv run manim -pql main.py CreateCirceOnAxis
+  582  sudo apt install docker
+  583  cd Codes
+  584  mkdir LearnTypeScript
+  585  cd LearnTypeScript
+  586  npm install -g typescript 
+  587  cd 
+  588  npm install -g typescript 
+  589  sudo npm install -g typescript
+  590  cd ~/Codes/Cursor2DAnim
+  591  ls
+  592  cd ..
+  593  ls
+  594  cd LearnTypeScript
+  595  npm init -y
+  596  npx tsc --init
+  597  nvim
+  598  cd ~/Codes/LearnTypescript
+  599  ;s
+  600  cd ~/Codes/LearnTypeScript
+  601  nvim
+  602  tsc -b
+  603  node a.js
+  604  nvim ./zshrc
+  605  nvim ~/.zshrc
+  606  nvim
+  607  cd .config
+  608  nvim
+  609  cd .config
+  610  nvim ~/.zshrc
+  611  cd .config
+  612  nvim
+  613  tsc -b
+  614  node a.js
+  615  nvim
+  616  tsc -b
+  617  node a.js
+  618  tsc -b
+  619  node a.js
+  620  tsc -b
+  621  node a.js
+  622  tsc -b
+  623  node a.js
+  624  tsc -b
+  625  node a.js
+  626  \t\ttsc -b
+  627  node a.js
+  628  abt
+  629  about
+  630  :help
+  631  lshw
+  632  cd Codes
+  633  ls
+  634  cd LearnTypeScript
+  635  nvim
+  636  ~/.zshrc
+  637  sudo ~/.zshrc
+  638  nvim ~/.zshrc
+  639  mv a.ts ./src
+  640  ls
+  641  mv a.js ./build
+  642  nvim
+  643  tsc -b
+  644  nvim .gitignore
+  645  rm .gitignore
+  646  tsc -b
+  647  node build/a.js
+  648  tsc -b
+  649  node build/a.js
+  650  tsc -b
+  651  node build/a.js
+  652  cd ~/Codes/LearnTypeScript
+  653  nvim
+  654  cd Downloads
+  655  ls
+  656  chmod +x Cursor-0.50.5-x86_64.AppImage
+  657  cd Downloads
+  658  chmod +x Cursor-0.50.5-x86_64.AppImage
+  659  cd
+  660  ls
+  661  cd Downloads
+  662  l
+  663  ls
+  664  cd ..
+  665  mkdir Applications
+  666  mv Downloads/Cursor-0.50.5-x86_64.AppImage Applications/
+  667  cd Applications
+  668  ls
+  669  mkdir cursoe\n
+  670  rm -rf cursoe
+  671  mkdir cursor\n
+  672  mv Cursor-0.50.5-x86_64.AppImage cursor/
+  673  cd 
+  674  sudo ln -s ~/Applications/cursor/Cursor-0.50.5-x86_64.AppImage /usr/local/bin/cursor\n
+  675  cursor
+  676  sudo apt install fuse
+  677  cursor
+  678  ./cursor --no-sandbox\n
+  679  cursor --no-sandbox
+  680  nvim ~/.zshrc
+  681  cat /proc/sys/kernel/unprivileged_userns_clone\n
+  682  cursor
+  683  cd Applications/cursor
+  684  chmod +x Cursor-0.50.5-x86_64.AppImage\nthen \n./Cursor-0.50.5-x86_64.AppImage --no-sandbox
+  685  cd 
+  686  update-desktop-database ~/.local/share/applications\n
+  687  mkdir -p ~/.xkb/symbols\n\n
+  688  nvim ~/.xkb/symbols/us_reversed\n
+  689  setxkbmap -I ~/.xkb us_reversed -option\n
+  690  cd ~/.xkb
+  691  ls
+  692  rm -rf symbols
+  693  sudo nvim /usr/share/X11/xkb/symbols/us_reversed\n
+  694  sudo nvim /usr/share/X11/xkb/rules/evdev.xml\n
+  695  ~/.config/hypr/hyprland.conf\n
+  696  sudo ~/.config/hypr/hyprland.conf\n
+  697  nvim
+  698  cd .config
+  699  nvim
+  700  hyprctl reload\n
+  701  nvim
+  702  hyprctl reload\n
+  703  hyprctl devices\n
+  704  sudo nvim /usr/share/X11/xkb/rules/evdev.xml\n
+  705  localectl list-x11-keymap-layouts | grep us_reversed\n
+  706  cd 
+  707  localectl list-x11-keymap-layouts | grep us_reversed\n
+  708  cat /usr/share/X11/xkb/symbols/us_reversed\n
+  709  XKB_DEFAULT_LAYOUT=us_reversed Hyprland\n
+  710  setxkbmap -I ~/.xkb us_reversed -option\nXKB_DEFAULT_LAYOUT=us_reversed Hyprland\n
+  711  XKB_DEFAULT_LAYOUT=us_reversed Hyprland\n
+  712  localectl list-x11-keymap-layouts | grep us_reversed\n
+  713  localectl list-x11-keymap-layouts | grep us\n
+  714  localectl list-x11-keymap-layouts\n
+  715  sudo nvim /usr/share/X11/xkb/rules/evdev.xml\n
+  716  localectl list-x11-keymap-layouts | grep us_reversed\n
+  717  hyprctl reload
+  718  localectl list-x11-keymap-layouts | grep us_reversed\n
+  719  cd /usr/share/X11/xkb/\n
+  720  ls
+  721  cd symbols
+  722  ls
+  723  rm us_reversed
+  724  sudo rm us_reversed
+  725  nvim us
+  726  sudo nvim us
+  727  sudo nvim /usr/share/X11/xkb/rules/evdev.xml\n
+  728  cd
+  729  cd .config
+  730  nvim
+  731  hyprctl reload
+  732  nvim
+  733  cd /usr/share/X11/xkb/\n
+  734  sudo nvim us
+  735  cd symbols
+  736  sudo nvim us
+  737  cd
+  738  hyprctl devices
+  739  cs .config
+  740  cd .config
+  741  nvim
+  742  hyprctl reload
+  743  hyprctl devices
+  744  hyprctl reload
+  745  nvim
+  746  hyprctl reload
+  747  hyprctl devices
+  748  nvim
+  749  hyprctl reload
+  750  killall waybar && waybar &\n
+  751  nvim
+  752  killall waybar && waybar &\n
+  753  waybar
+  754  jq . ~/.config/waybar/config\n
+  755  waybar
+  756  jq . ~/.config/waybar/config\n
+  757  waybar
+  758  [200~killall waybar && waybar &
+  759  waybar 7
+  760  waybar &
+  761  sudo apt install cloudfare-warp
+  762  cd Downloads
+  763  ls
+  764  sudo dpkg -i cloudflare-warp_2025.4.943.0_amd64.deb
+  765  curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg\n
+  766  cd
+  767  echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list\n
+  768  curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg\n
+  769  echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list\n
+  770  sudo apt-get update && sudo apt-get install cloudflare-warp\n
+  771  apt --fix-broken install
+  772  sudo apt --fix-broken install
+  773  killall waybar && waybar &
+  774  waybar &
+  775  cd .config
+  776  nvim
+  777  waybar &
+  778  reboot
+  779  cd .config
+  780  nvim
+  781  :q
+  782  killall waybar && waybar &
+  783  reboot
+  784  cd .config
+  785  ncim
+  786  nvim
+  787  cloudfare-warp
+  788  cloudfare
+  789  sudo apt-get update && sudo apt-get install cloudflare-warp\n
+  790  sudo apt autoremove
+  791  reboot
+  792  cat /etc/X11/default-display-manager
+  793  startx
+  794  hyerctl
+  795  hyperctl
+  796  sudo reboot
+  797  which Hyperland
+  798  which hyprland
+  799  hyprland
+  800  sudo shutdown
+  801  hyprland
+  802  sudo apt update
+  803  sudo apt-get update
+  804  sudo apt-get upgrade
+  805  hyprland
+  806  sddm-git
+  807  hyprland -h
+  808  Hyprland -h
+  809  Hyprland --help
+  810  Hyprland --config
+  811  Hyprland --config FILE
+  812  cd .config
+  813  nvim
+  814  sddm
+  815  sudo apt install sddm
+  816  hyrland
+  817  hyprland
+  818  sudo apt purge sddm
+  819  sudo apt install gdm#
+  820  sudo apt install gdm3
+  821  nvim /var/log/apt/history.log
+  822  sudo apt update\nsudo apt install --reinstall ubuntu-desktop gdm3 gnome-shell xwayland nautilus\n
+  823  sudo apt install cloudflare-warp
+  824  killall waybar && waybar &
+  825  sudo apt purge cloudfare-warp
+  826  sudo apt purge cloudflare-warp
+  827  curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg\n
+  828  echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ jammy main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list\n
+  829  sudo apt-get update && sudo apt-get install cloudflare-warp\n
+  830  warp-cli registration new
+  831  warp-cli connect
+  832  curl https://www.cloudflare.com/cdn-cgi/trace/
+  833  warp-cli mode --help
+  834  warp-cli disconnect
+  835  curl https://www.cloudflare.com/cdn-cgi/trace/
+  836  warp-cli connect
+  837  sudo apt install libvterm0 tracker libgsf-1-114 libunity-scopes-json-def-desktop libexiv2-27 lua-luv libgexiv2-2 libluajit-5.1-2 libjpeg62 libtss2-tcti-libtpms0t64 libdee-1.0-4 libtree-sitter0 libtermkey1 libev4t64 tracker-miner-fs gir1.2-gnomedesktop-3.0 neovim-runtime gir1.2-gnomeautoar-0.1 libtss2-tcti-spi-helper0t64 python3-pynvim libunity9 libunibilium4 xwayland libconfig9 libmsgpackc2 libcue2 libfreerdp3-3 libunity-protocol-private0 libportal1 libportal-gtk4-1 libtss2-tctildr0t64 tracker-extract libwinpr3-3 libfreerdp-server3-3 libgulkan-0.15-0t64 libtotem-plparser-common libntfs-3g89t64 nautilus-data libtracker-sparql-3.0-0 python3-msgpack libei1 libtotem-plparser18 python3-greenlet libluajit-5.1-common libgsf-1-common\n
+  838  warp-cli disconnect
+  839  cd .config
+  840  nvim
+  841  hyperctl reload
+  842  hyprctl reload
+  843  cd .config
+  844  nvim
+  845  hyprctl reload
+  846  reboot
+  847  cd .config
+  848  nvim
+  849  chrome
+  850  google-chrome
+  851  hyprctl reload
+  852  reboot
+  853  cd .config
+  854  nvim
+  855  cd .config
+  856  cd .config[B
+  857  nvim
+  858  cd .config
+  859  nvim
+  860  hyprctl reload
+  861  cd .config
+  862  nvim
+  863  cd .config
+  864  nvim
+  865  cd .config
+  866  nvim
+  867  curl https://www.cloudflare.com/cdn-cgi/trace/
+  868  hyrctl reload
+  869  hyprctl reload
+  870  cd .config
+  871  nvim
+  872  cd .config
+  873  sudo nvim /usr/share/X11/xkb/rules/evdev.xml\n
+  874  cd .config
+  875  nvim
+  876  hyprctl reload
+  877  nvim
+  878  hyprctl reload
+  879  cd .config
+  880  nvim
+  881  hyprctl reload
+  882  cd .config
+  883  nvim
+  884  hyprctl reload
+  885  nvim
+  886  hyprctl reload
+  887  nvim
+  888  cd Codes
+  889  cd LearnTypeScript
+  890  nvim
+  891  sudo apt install flatpak
+  892  sudo apt install gnome-software-plugin-flatpak
+  893  flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  894  cd .config
+  895  nvim
+  896  hyprctl reload
+  897  nvim
+  898  cd Codes
+  899  ls
+  900  mkdir newProject
+  901  cd newProject
+  902  npm init -y
+  903  ncim
+  904  nvim
+  905  npm i express monogoose socket.io cors dotenv nodemon
+  906  npm i express mongoose socket.io cors dotenv nodemon
+  907  curl -v --http1.0 https://example.com\n
+  908  curl -v --http1.0 --header "Connection: keep-alive" https://example.com\n
+  909  curl -v --http1.1 https://example.com\n
+  910  curl -v --http1.1 --header "Connection: close" https://example.com\n
+  911  curl -I --http2 https://example.com\n
+  912  curl -v --http2 https://example.com\n
+  913  curl --version\n
+  914  git clone --quiet --depth=1 -b openssl-$OPENSSL_VERSION https://github.com/openssl/openssl\n
+  915  cd openssl
+  916  git clone --quiet --depth=1 -b openssl-$OPENSSL_VERSION https://github.com/openssl/openssl\n
+  917  sudo apt install -y build-essential git curl libssl-dev \\n  libnghttp2-dev libbrotli-dev python3 python3-pip cmake
+  918  cd ~\ngit clone --recursive https://github.com/cloudflare/quiche\ncd quiche\ncargo build --package quiche --release --features ffi,pkg-config-meta,qlog\nln -s libquiche.so target/release/libquiche.so.0\nmkdir quiche/deps/boringssl/src/lib\nln -vnf $(find target/release -name libcrypto.a -o -name libssl.a) quiche/deps/boringssl/src/lib/
+  919  sudo apt install cargo
+  920  cargo build --package quiche --release --features ffi,pkg-config-meta,qlog\nln -s libquiche.so target/release/libquiche.so.0\nmkdir quiche/deps/boringssl/src/lib\nln -vnf $(find target/release -name libcrypto.a -o -name libssl.a) quiche/deps/boringssl/src/lib/\n
+  921  sudo apt install rustc
+  922  rustc -version
+  923  rustc
+  924  rustc -V
+  925  sudo apt install rustup\n\n
+  926  rustup update
+  927  rustc -V
+  928  \nerror: Unrecognized option: 'e'
+  929  \nerror: Unrecognized option: 'e'\n
+  930  cargo build --package quiche --release --features ffi,pkg-config-meta,qlog\nln -s libquiche.so target/release/libquiche.so.0\nmkdir quiche/deps/boringssl/src/lib\nln -vnf $(find target/release -name libcrypto.a -o -name libssl.a) quiche/deps/boringssl/src/lib/
+  931  cd ~\ngit clone https://github.com/curl/curl\ncd curl\nautoreconf -fi\n./configure LDFLAGS="-Wl,-rpath,$PWD/../quiche/target/release" \\n  --with-openssl=$PWD/../quiche/quiche/deps/boringssl/src \\n  --with-quiche=$PWD/../quiche/target/release \nmake\nmake install\nldconfig
+  932  sudo apt install autoreconf
+  933  which curl\n/usr/local/bin/curl\n\ncurl --version  | grep HTTP3\nFeatures: alt-svc AsynchDNS brotli HSTS HTTP2 HTTP3 HTTPS-proxy IPv6 Largefile libz NTLM SSL threadsafe UnixSockets
+  934  sudo apt install autoconf
+  935  autoreconf -fi\n./configure LDFLAGS="-Wl,-rpath,$PWD/../quiche/target/release" \\n  --with-openssl=$PWD/../quiche/quiche/deps/boringssl/src \\n  --with-quiche=$PWD/../quiche/target/release \nmake\nmake install\nldconfig
+  936  ls
+  937  cd ~\ngit clone https://github.com/curl/curl\ncd curl\nautoreconf -fi\n./configure LDFLAGS="-Wl,-rpath,$PWD/../quiche/target/release" \\n  --with-openssl=$PWD/../quiche/quiche/deps/boringssl/src \\n  --with-quiche=$PWD/../quiche/target/release \nmake\nmake install\nldconfig
+  938  autoreconf -fi\n./configure LDFLAGS="-Wl,-rpath,$PWD/../quiche/target/release" \\n  --with-openssl=$PWD/../quiche/quiche/deps/boringssl/src \\n  --with-quiche=$PWD/../quiche/target/release \nmake\nmake install\nldconfig
+  939  sudo apt update\nsudo apt install -y \\n  build-essential \\n  autoconf \\n  automake \\n  libtool \\n  pkg-config \\n  cmake \\n  perl \\n  git \\n  cargo \\n  libssl-dev\n
+  940  autoreconf -fi\n./configure LDFLAGS="-Wl,-rpath,$PWD/../quiche/target/release" \\n  --with-openssl=$PWD/../quiche/quiche/deps/boringssl/src \\n  --with-quiche=$PWD/../quiche/target/release \nmake\nmake install\nldconfig
+  941  which curl\n/usr/local/bin/curl\n\ncurl --version  | grep HTTP3\nFeatures: alt-svc AsynchDNS brotli HSTS HTTP2 HTTP3 HTTPS-proxy IPv6 Largefile libz NTLM SSL threadsafe UnixSockets
+  942  CC       ../lib/curlx/libcurltool_la-warnless.lo\n  CCLD     libcurltool.la\nmake[1]: Leaving directory '/home/yug/curl/src'\nMaking all in scripts\nmake[1]: Entering directory '/home/yug/curl/scripts'\nmake[1]: Nothing to be done for 'all'.\nmake[1]: Leaving directory '/home/yug/curl/scripts'\nmake[1]: Entering directory '/home/yug/curl'\nmake[1]: Nothing to be done for 'all-am'.\nmake[1]: Leaving directory '/home/yug/curl'\nMaking install in lib\nmake[1]: Entering directory '/home/yug/curl/lib'\nmake[2]: Entering directory '/home/yug/curl/lib'\n /usr/bin/mkdir -p '/usr/local/lib'\n /bin/bash ../libtool   --mode=install /usr/bin/install -c   libcurl.la '/usr/local/lib'\nlibtool: install: /usr/bin/install -c .libs/libcurl.so.4.8.0 /usr/local/lib/libcurl.so.4.8.0\n/usr/bin/install: cannot create regular file '/usr/local/lib/libcurl.so.4.8.0': Permission denied\nmake[2]: *** [Makefile:1725: install-libLTLIBRARIES] Error 1\nmake[2]: Leaving directory '/home/yug/curl/lib'\nmake[1]: *** [Makefile:5062: install-am] Error 2\nmake[1]: Leaving directory '/home/yug/curl/lib'\nmake: *** [Makefile:627: install-recursive] Error 1\n/sbin/ldconfig.real: Can't create temporary cache file /etc/ld.so.cache~: Permission denie`\ndasd\nasdlfsal;k\n
+  943  sudo make install\nsudo ldconfig\n
+  944  which curl\n/usr/local/bin/curl\n\ncurl --version  | grep HTTP3\nFeatures: alt-svc AsynchDNS brotli HSTS HTTP2 HTTP3 HTTPS-proxy IPv6 Largefile libz NTLM SSL threadsafe UnixSockets
+  945  curl -I --http3 https://blackonsole.org\nHTTP/3 200
+  946  curl -I --http3 https://blackonsole.org
+  947  curl -o /dev/null -s -w \\n"HTTP Version: %{http_version}\nTime Total: %{time_total}s\n" \\n--http2 https://cloudflare-quic.com\n
+  948  curl -o /dev/null -s -w \\n"HTTP Version: %{http_version}\nTime Total: %{time_total}s\n" \\n--http3 https://cloudflare-quic.com\n
+  949  sudo tc qdisc add dev eth0 root netem delay 100ms loss 2%\n
+  950  ip link show\n
+  951  sudo tc qdisc add dev enx000e0986930a root netem delay 100ms loss 2%\n
+  952  curl -o /dev/null -s -w \\n"HTTP Version: %{http_version}\nTime Total: %{time_total}s\n" \\n--http2 https://cloudflare-quic.com\n
+  953  curl -o /dev/null -s -w \\n"HTTP Version: %{http_version}\nTime Total: %{time_total}s\n" \\n--http3 https://cloudflare-quic.com\n
+  954  curl -o /dev/null -s -w \\n"HTTP Version: %{http_version}\nTime Total: %{time_total}s\n" \\n--http2 https://cloudflare-quic.com\n
+  955  curl -o /dev/null -s -w \\n"HTTP Version: %{http_version}\nTime Total: %{time_total}s\n" \\n--http3 https://cloudflare-quic.com\n
+  956  sudo tc qdisc del dev enx000e0986930a root netem\n
+  957  cd Codes/NewProject
+  958  cd Codes
+  959  ls
+  960  cd newProject
+  961  nvim
+  962  cd cOcdes
+  963  cd Codes
+  964  nvim
+  965  npm install cookie-parser
+  966  nvim
+  967  cd Codes/newProject
+  968  nvim
+  969  cd .config
+  970  nvii
+  971  nvim
+  972  cd Codes/newProject
+  973  nvim
+  974  cd .config\\n.
+  975  cd .config\n.
+  976  cd .config
+  977  nvim
+  978  cd Codes/newProject
+  979  nvim\\nCodes/newProject
+  980  nvimOD\nCodes/newProject
+  981  nvim
+  982  npm install bcryptjs
+  983  cd .con
+  984  cd .config
+  985  nvim
+  986  ipconfig
+  987  iwconfig
+  988  lspci
+  989  sudo dmesg | less
+  990  sudo nmcli device
+  991  sudo systemcl restart
+  992  sudo systemcTl restart
+  993  sudo systemctl restart
+  994  sudo systemctl restart NetworkManager
+  995  iwconfig
+  996  ifconfig
+  997  iwconfig
+  998  sudo apt update
+  999  sudo apt upgrade
+ 1000  iwconfig
+ 1001  sudo netplan --debug generate                                         \n
+ 1002  NetworkManger
+ 1003  sudo systemctl restart NetworkManager
+ 1004  sudo service network-manager restart\n
+ 1005  sudo ubuntu-drivers autoinstall\n
+ 1006  sudo nano /etc/NetworkManager/NetworkManager.conf\n
+ 1007  sudo service network-manager restart\n
+ 1008  sudo systemctl restart NetworkManager
+ 1009  lspci
+ 1010  iw list
+ 1011  iwlist
+ 1012  get https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112853.exe
+ 1013  wget https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112853.exe
+ 1014  wine sp157681.exe /s /e /f sp157681
+ 1015  sudo apt install wine
+ 1016  wine sp157681.exe /s /e /f sp157681
+ 1017  cp -r sp157681/field/{Hewlett-Packard,HP} boot/efi/EFI/
+ 1018  cp -r sp157681/field/{Hewlett-Packard,HP} /boot/efi/EFI/
+ 1019  wine sp157681.exe /s /e /f sp157681
+ 1020  dpkg --add-architecture i386 && apt-get update &&\napt-get install wine32:i386
+ 1021  sudo dpkg --add-architecture i386 && apt-get update &&\napt-get install wine32:i386
+ 1022  wine sp157681.exe /s /e /f sp157681
+ 1023  sudo apt install wine32:i386
+ 1024  sudo apt-get install wine32:i386
+ 1025  sudo apt-get install wine32
+ 1026  uname -r
+ 1027  sudo apt update \nsudo apt install --reinstall linux-generic\nsudo apt install linux-modules-extra-6.11.0-26-generic
+ 1028  uname -r
+ 1029  lpsci
+ 1030  lspci
+ 1031  nvim
+ 1032  cd Codes/newProject
+ 1033  nvim
+ 1034  cd Codes
+ 1035  ncvim
+ 1036  nvim
+ 1037  'https://avatars.oxro.io/avatar.svg?name=Yug+Parale&background=random&rounded=true\n'
+ 1038  curl https://avatars.oxro.io/avatar.svg?name=Yug+Parale&background=random&rounded=true
+ 1039  \n\napt-get install wine32:i386
+ 1040  curl -h
+ 1041  curl --help all
+ 1042  cd Codes/newProject
+ 1043  cd Codes
+ 1044  nvim
+ 1045  npm install jsonwebtoken
+ 1046  nvim
+ 1047  npm run server
+ 1048  nvim
+ 1049  npm run server
+ 1050  cd Codes/newProject
+ 1051  nvim
+ 1052  npm run server
+ 1053  nvim .env
+ 1054  npm run server
+ 1055  sudo apt install postman
+ 1056  cd Applications
+ 1057  tar -h
+ 1058  tar --help
+ 1059  tar -xzvf postman-linux-x64.tar.gz
+ 1060  snap
+ 1061  snap install postman
+ 1062  postman
+ 1063  sudo snap remove postman\n
+ 1064  cd Applications
+ 1065  tar -xzf Postman-linux-x64.tar.gz\n
+ 1066  tar -xzf postman-linux-x64.tar.gz\n
+ 1067  ~/Postman/Postman
+ 1068  ~/Application/Postman/Postman
+ 1069  ~/Applications/Postman/Postman
+ 1070  cd .config
+ 1071  nvim
+ 1072  ~/Applications/Postman/Postman
+ 1073  sudo snap install bruno\n
+ 1074  bruno
+ 1075  sudo snap remove bruno\n
+ 1076  sudo mkdir -p /etc/apt/keyrings \nsudo gpg --no-default-keyring --keyring /etc/apt/keyrings/bruno.gpg --keyserver keyserver.ubuntu.com --recv-keys 9FA6017ECABE0266 \n\necho "deb [signed-by=/etc/apt/keyrings/bruno.gpg] http://debian.usebruno.com/ bruno stable" | sudo tee /etc/apt/sources.list.d/bruno.list \n \nsudo apt update \nsudo apt install bruno
+ 1077  cd Applications
+ 1078  ls
+ 1079  sudo dpkg -i bruno_2.4.0_amd64_linux.deb
+ 1080  sudo apt-get -f install
+ 1081  bruno
+ 1082  cd Codes/newProject
+ 1083  nvim
+ 1084  npm run server
+ 1085  cd Codes/newProject
+ 1086  nvim
+ 1087  cd Codes/Chatapp
+ 1088  cd Codes/ChatApp
+ 1089  nvim
+ 1090  cd Codes/ChatApp
+ 1091  cd
+ 1092  cd Codes/newProject
+ 1093  nvim
+ 1094  lpsci
+ 1095  lspci
+ 1096  cd .config
+ 1097  nvim
+ 1098  cd Codes/newProject
+ 1099  nvim
+ 1100  cd Codes/newProject
+ 1101  ncim
+ 1102  nvi
+ 1103  nvim
+ 1104  npm i quill
+ 1105  npm i yjs y-quill
+ 1106  cd Codes/newProject
+ 1107  nvium
+ 1108  nvim
+ 1109  cd Codees/yjs-demos
+ 1110  cd Codes/yjs-demos
+ 1111  cd Codes
+ 1112  ld
+ 1113  ls
+ 1114  cd Codes/yjs-demos-
+ 1115  cd yjs-demos-
+ 1116  npm i
+ 1117  npm start
+ 1118  ls
+ 1119  cs quill
+ 1120  cd quill
+ 1121  npm i
+ 1122  npm audit
+ 1123  npm i quill@2.0.3
+ 1124  npm audit
+ 1125  npm install ws@latest
+ 1126  npm start
+ 1127  npm i
+ 1128  cd ..
+ 1129  rm -rf yjs-demos
+ 1130  ls
+ 1131  rm -rf yjs-demos-
+ 1132  ls
+ 1133  sudo apt-get install unzip
+ 1134  unzip yjs-demos-.zip
+ 1135  cd yjs-demos-
+ 1136  ls
+ 1137  cd quill
+ 1138  npm i
+ 1139  npm audit fix
+ 1140  npm audit fix --force
+ 1141  npm start
+ 1142  npm i webpack-dev-server
+ 1143  cd 
+ 1144  cd Codes
+ 1145  rm -rf quill
+ 1146  rm yjs-quill-.zip
+ 1147  rm yjs-demos-.zip
+ 1148  ls
+ 1149  mkdir yjs_quill
+ 1150  cd yjs_quill
+ 1151  nvim
+ 1152  npm init -y
+ 1153  npm i quill quill-cursors
+ 1154  npm i yjs y-quill
+ 1155  npm i y-websocket
+ 1156  npm start
+ 1157  npm i y-webrtc
+ 1158  npm start
+ 1159  npm run server
+ 1160  npm i -D vite
+ 1161  npm run dev
+ 1162  ipconfig
+ 1163  ip-config
+ 1164  ipconfig
+ 1165  ifconfig
+ 1166  ip
+ 1167  ifconfig
+ 1168  ip addr
+ 1169  ping
+ 1170  nslookup
+ 1171  ifconfig
+ 1172  sudo apt install net-tools
+ 1173  ifconfig
+ 1174  ipconfig
+ 1175  ifconfig
+ 1176  npm run dev
+ 1177  net-tools
+ 1178  hostname -I\n
+ 1179  npx y-websocket-server --port 1234
+ 1180  npx y-websocket --port 1234
+ 1181  npm install y-websocket
+ 1182  npx y-websocket-server --port 1234
+ 1183  npx y-websocket
+ 1184  npm install -g y-websocket
+ 1185  npm y-websocket
+ 1186  npx help
+ 1187  cd Codes
+ 1188  ls
+ 1189  cd yjs_quill
+ 1190  ls
+ 1191  cd Codes/newProject
+ 1192  nvim
+ 1193  cd yjs]
+ 1194  cd yjs
+ 1195  npm init -y
+ 1196  npm install yjs\\n
+ 1197  npm start
+ 1198  npm start server
+ 1199  nvim
+ 1200  cd yjs
+ 1201  npm start server
+ 1202  cd Codes/newProject
+ 1203  ls
+ 1204  git config --list
+ 1205  git config --list --local
+ 1206  git config --list
+ 1207  git config --list --local
+ 1208  cd .git
+ 1209  git --version
+ 1210  man git
+ 1211  git config list
+ 1212  git config --get user.name
+ 1213  cat ~/.gitconfig
+ 1214  ls
+ 1215  cd .config
+ 1216  ls
+ 1217  cd git
+ 1218  cd .gitconfig
+ 1219  cd 
+ 1220  sudo apt purge git
+ 1221  sudo apt install git
+ 1222  git --version
+ 1223  git config --list
+ 1224  git config --list --local
+ 1225  ls
+ 1226  git config --global
+ 1227  git config --global user.name
+ 1228  git config --get user.name
+ 1229  ls
+ 1230  cd .git
+ 1231  cd .gitconfig
+ 1232  cd ~/.gitconfig
+ 1233  cd config
+ 1234  cd ,config
+ 1235  cd .config
+ 1236  ls
+ 1237  cd .git
+ 1238  cd .gitconfig
+ 1239  git config --add --global user.name "Yugparale"\n
+ 1240  git config --get user.name
+ 1241  git config --add --global user.email "yugparle@gmail.com"
+ 1242  git config --get user.email
+ 1243  git config --global init.defaultBranch master
+ 1244  cat ~/.gitconfig
+ 1245  cd Codes/newProject
+ 1246  cd ..]
+ 1247  cd
+ 1248  cd Codes/newProject
+ 1249  git init
+ 1250  ls -a
+ 1251  ls -la
+ 1252  nvim contents.md\
+ 1253  nvim contents.md
+ 1254  git status
+ 1255  git add contents.md
+ 1256  git status
+ 1257  git commit 
+ 1258  cd ~/Codes
+ 1259  mkdir git learning
+ 1260  bootdev --version
+ 1261  go install github.com/bootdotdev/bootdev@latest
+ 1262  bootdev login
+ 1263  ootdev --version
+ 1264  bootdev --version
+ 1265  # For Linux/WSL\necho 'export PATH=$PATH:$HOME/go/bin' >> ~/.bashrc\n# next, reload your shell configuration\nsource ~/.bashrc
+ 1266  cd Codes
+ 1267  mkdir git_learning
+ 1268  cd git_learning
+ 1269  git iniy
+ 1270  git init
+ 1271  nvim contents.md
+ 1272  git status
+ 1273  git add .
+ 1274  git status
+ 1275  git commit -m 'first commmit'
+ 1276  git status
+ 1277  git log
+ 1278  git --no-pager log -n 10 --oneline
+ 1279  git --no-pager log -n 10 --oneline --parents
+ 1280  find .git
+ 1281  cat .git/objects/6d/aff8f339ca88e0c3358231b765aeea51bfd2cb
+ 1282  git cat-file -p 6daff
+ 1283  git cat-file -p 4c42c
+ 1284  git cat-file -p 63778e7169985c41e0c0d9c9b842346594f81ce9
+ 1285  ks
+ 1286  ls
+ 1287  rm titles,d
+ 1288  ls
+ 1289  nvim titles.md
+ 1290  git add .
+ 1291  git status
+ 1292  git commit -m 'second commit'
+ 1293  git log -oneline
+ 1294  git log --oneline
+ 1295  git log --oneline -n-10
+ 1296  git --no-pager log
+ 1297  git cat-file -p 308983 
+ 1298  git cat-file -p a8fa97ce 
+ 1299  git cat-file -p 66693
+ 1300  git cat-file -p 6daff
+ 1301  mkdir quotes
+ 1302  nvim dune.md
+ 1303  nvim starwars.md
+ 1304  git add .
+ 1305  git staus
+ 1306  git status
+ 1307  git commit -m 'third commit'
+ 1308  git --no-pager log
+ 1309  git --no-pager log -p
+ 1310  git config --add --local ceo betty
+ 1311  git config --add --local git.ceo betty
+ 1312  git config --add --local git.cto butarr
+ 1313  git config --add --local git.val nill
+ 1314  git config --list --local
+ 1315  git config remove-section --local git.ceo
+ 1316  git config remove-section --local git
+ 1317  cat .git/config
+ 1318  git config remove-section --local git
+ 1319  git config --local --remove-section hit
+ 1320  git config --local --remove-section git
+ 1321  cat .git/config
+ 1322  git branch
+ 1323  git branch -m master main
+ 1324  git config --global init.defaultBranch main
+ 1325  git config --global --list
+ 1326  man git -rebase
+ 1327  man git-rebase
+ 1328  git branch
+ 1329  git switch -c 'add_classixs
+ 1330  git switch -c 'add_classics'
+ 1331  git branch
+ 1332  git log main
+ 1333  git branch
+ 1334  find .git | refs
+ 1335  find .git | grep refs
+ 1336  cat .git/refs/heads/add_classics
+ 1337  cat .git/refs/heads/main
+ 1338  git switch main
+ 1339  git switch add_classics
+ 1340  nvim classics.csv 
+ 1341  git add .
+ 1342  git commit -m 'fourth commit'
+ 1343  git --no-pager log -p
+ 1344  git log --decorate=full
+ 1345  git log --graph
+ 1346  git switch main
+ 1347  nvim contents.md
+ 1348  git add .
+ 1349  git status
+ 1350  git commit -m 'fifth change'
+ 1351  git log --oneline --graph --all
+ 1352  git merger add_classics
+ 1353  git merge add_classics
+ 1354  git log --oneline --graph --all
+ 1355  git log --oneline --graph --decorate --parents
+ 1356  git log --oneline --graph --decorate --all
+ 1357  git log --oneline --graph --decorate --parents
+ 1358  git branch -d add_classics
+ 1359  git switch -c 'update_titles'
+ 1360  nvim titles.md
+ 1361  git status
+ 1362  git add .
+ 1363  git commmit -m 'update titles'
+ 1364  git commit -m 'update titles'
+ 1365  git log --oneline 
+ 1366  git switch main
+ 1367  git lgo 
+ 1368  git log --oneline 
+ 1369  git log --oneline --all
+ 1370  git log --oneline --graph --decorate --parents
+ 1371  git merge update_titles
+ 1372  git log --oneline --graph --decorate --parents
+ 1373  git log --oneline
+ 1374  git switch -c 'update_dune' 791efe7
+ 1375  git --no-pager log -oneliner
+ 1376  git --no-pager log --oneliner
+ 1377  git --no-pager log --oneline
+ 1378  git --no-pager log --oneline --parents --all
+ 1379  git --no-pager log --oneline --parents --all --graph
+ 1380  ls
+ 1381  nvim quotes/dune.md
+ 1382  cd quotes
+ 1383  nvim dune.md
+ 1384  git log --oneline
+ 1385  git log --oneline -p
+ 1386  ls
+ 1387  cd ..
+ 1388  ls
+ 1389* mv dune.md quotes/
+ 1390* mv quotes/ dune.md
+ 1391* mv quotes dune.md
+ 1392  mv dune.md quotes
+ 1393  mv starwars.md quotes
+ 1394  ls
+ 1395  nvim dune.md
+ 1396  nvim quotes/dune.md
+ 1397  ls
+ 1398  git status
+ 1399  git add .
+ 1400  git status
+ 1401  cat quotes/dune.md
+ 1402  git commit -m 'udate dune'
+ 1403  nvim quotes/dune.md
+ 1404  git status
+ 1405  git add .
+ 1406  git commit -m 'udate dune 2nd time'
+ 1407  git log --oneline --graph --decorate --parents
+ 1408  git log --oneline --graph --decorate --parents --all
+ 1409  git log --oneline --graph --decorate --parents --all -p
+ 1410  git log --oneline --graph --decorate --parents --all 
+ 1411  git branch -d update_titles
+ 1412  git branch -D update_titles
+ 1413  git log --oneline --graph --decorate --parents --all 
+ 1414  git rebase main
+ 1415  git log --oneline --graph --decorate --parents --all 
+ 1416  ls
+ 1417  nvim titles.md\
+ 1418  nvim titles.md
+ 1419  git status
+ 1420  git add .
+ 1421  git staus
+ 1422  git status
+ 1423  git commit -m 'Intern Mistake'
+ 1424  git log --oneline --graph --decorate --parents --all 
+ 1425  git reset --soft HEAD~1
+ 1426  git status
+ 1427  git log --oneline --graph --decorate --parents --all 
+ 1428  git diff --stages
+ 1429  git diff --staged
+ 1430  git diff 
+ 1431  git log --oneline --graph --decorate --parents --all 
+ 1432  git reset --hard
+ 1433  git status
+ 1434  cat titles.md
+ 1435  git diff 
+ 1436  git diff --staged
+ 1437  mkdir  ../git_learning_local
+ 1438  cd ../git_learning_local
+ 1439  git init
+ 1440  git remote add origin ../git_learning
+ 1441  find .git/objects
+ 1442  git fetch
+ 1443  find .git/objects
+ 1444  git log
+ 1445  git log origin/main
+ 1446  git remote -v\n
+ 1447  git merge origin/main
+ 1448  git log
+ 1449  ls
+ 1450  git merge origin/main
+ 1451  git log
+ 1452* curl -sS https://webi.sh/gh | sh\n\n
+ 1453* \n\ngh auth login\n\n
+ 1454  cd ../git_learning
+ 1455  git remote add origin https://github.com/Yugparale/git_learning.git
+ 1456  git ls-remote
+ 1457  git push origin main
+ 1458  git switch main
+ 1459  git push origin main
+ 1460  git log
+ 1461  git log --oneline --graph --decorate --parents --all 
+ 1462  git merge main update_dune
+ 1463  git log --oneline --graph --decorate --parents --all 
+ 1464  git branch -d update_dune
+ 1465  git log --oneline --graph --decorate --parents --all 
+ 1466  git push origin main
+ 1467  git pull origin main
+ 1468  git log --oneline --graph --decorate --parents --all 
+ 1469  systemctl --version
+ 1470* sudo apt install cmake libglib2.0-dev libudev-dev libsystemd-dev libreadline-dev check libtool
+ 1471* mkdir build
+ 1472* cd build
+ 1473* cmake -DCMAKE_INSTALL_PREFIX=/usr .. 
+ 1474* make
+ 1475  git switch add_classics
+ 1476  git switch -c add_classics
+ 1477  nvim classics.csv 
+ 1478  git add .
+ 1479  git status
+ 1480  git commit -m 'anpther classic update'
+ 1481  git push origin add_classics
+ 1482  git config --global pull.rebase true
+ 1483  git config --global --list
+ 1484  git config --unset pull.rebase 
+ 1485  git config --global --list
+ 1486  git config --unset rebase
+ 1487  git config --unset --global pull.rebase
+ 1488  git config --global --list
+ 1489* cd newProject
+ 1490* ls
+ 1491* ls -la
+ 1492* nvim
+ 1493* cd Codes/newProject
+ 1494* ncim
+ 1495* nvim
+ 1496* git status
+ 1497* rm contents.md
+ 1498* git staus
+ 1499* git status
+ 1500* git add .
+ 1501* git staus
+ 1502* git status
+ 1503* git commit -m 'auth backend completed'
+ 1504* git config --global --list
+ 1505* git log --oneline --graph --decorate --parents --all 
+ 1506* git log -all -parents -p
+ 1507* git log -all --parents -p
+ 1508* git log --all --parents -p
+ 1509* git branch master origin
+ 1510* git branch main master
+ 1511* git brach master main
+ 1512* git branch master main
+ 1513* git log
+ 1514* git branch -d master
+ 1515* git branch -d main
+ 1516* git branch -m master main
+ 1517* git config --global --list
+ 1518* git config --local list
+ 1519* git config --local --list
+ 1520* git log 
+ 1521* git log -p
+ 1522* git log -p --all
